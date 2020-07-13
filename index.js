@@ -24,5 +24,7 @@ function iLoveTheBeatles(number)
 {
   var empty = [];
   
+  do
+  
   while (counter < 15);
 }
