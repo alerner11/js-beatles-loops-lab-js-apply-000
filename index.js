@@ -2,5 +2,5 @@
 function theBeatlesPlay(musicians, instruments)
 {
   var empty = [];
-  for 
+  for counter = 0
 }
