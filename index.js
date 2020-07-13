@@ -23,8 +23,12 @@ function johnLennonFacts(facts)
 function iLoveTheBeatles(number)
 {
   var empty = [];
-  
+  var counter = 0;
   do
-  
-  while (counter < 15);
+  {
+    empty[counter] = "I love the Beatles!"
+    counter++;
+    number++;
+  }
+  while (number < 15);
 }
